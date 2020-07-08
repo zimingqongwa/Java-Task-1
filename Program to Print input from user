@@ -3,14 +3,10 @@
 import java.util.Scanner; 
 
 
-class Integer { 
-
-    public static void main(String[] args) 
+class Integer { public static void main(String[] args) 
 
     { 
-
-
-        int num; 
+        int num; 
 
 
         System.out.println("Enter the integer: ");  
@@ -21,9 +17,7 @@ class Integer {
 
         num = s.nextInt(); 
 
-        System.out.println("Entered integer is: " 
-
-                           + num); 
+        System.out.println("Entered integer is: "  + num); 
 
     } 
 
